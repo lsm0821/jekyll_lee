@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Final Project Proposal"
+date:   2018-04-30 00:32:32 -0700
+categories: jekyll update
+---
+<img src ="/image/mountain.png" alt="">
+Uh.. what a wonderful view~.
+
+<img src ="/image/final/1/musicvisualizer3.jpg" alt="">
+
+My final project title: A weather visualizer
+
+Description:
+I am thinking about using weather API to do a data visualization.
+This time, I am thinking about making it more artistic than before, to entertain people
+who see my project and show others that I can use API to pull data that I need.
+
+Frameworks: I am using p5js to do it, because I am more used to this at making better design for my visualization.
