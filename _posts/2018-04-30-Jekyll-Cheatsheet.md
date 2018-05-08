@@ -34,7 +34,7 @@ search it on window. it is usually in in driveC/users/yourname)
 
 By completing steps up to here, Congratulation. Your blog is now ready.
 
-<img src ="/image/image2/congrat.jpg" alt="" class= "center">
+<img src ="/site/image/Project/Alexa/Capture.PNG" alt="" class= "center">
 
 After your Starting Point..
 
