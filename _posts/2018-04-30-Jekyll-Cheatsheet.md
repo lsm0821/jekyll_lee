@@ -6,7 +6,12 @@ categories: jekyll update
 ---
 Jekyll Cheatsheet - by Sungmin Lee
 
+![congrat](https://raw.githubusercontent.com/lsm0821/jekyll_lee/master/image/Project/New%20folder/jekyll.png)
+
 Jekyll - A simple, blog-aware, static site generator.
+
+![congrat](https://raw.githubusercontent.com/lsm0821/jekyll_lee/master/image/Project/New%20folder/rubygems.jpg)
+
 Requirements:
 1. [Ruby](https://www.ruby-lang.org/en/downloads/) version 2.2.5 or above.
   (You can check by running "ruby -v" at your terminal)
